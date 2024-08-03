@@ -1,7 +1,21 @@
-# Byte-compiled / optimized / DLL files
+# Python Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Operating System Files (Michelle, added from Claude. OK)
+.DS_Store
+Thumbs.db
+
+# VSCode (Michelle, added from Claude. Check?)
+.vscode/
+
+# Virtual Environment (Michelle, added from Claude. Check?)
+venv/
+env/
+
+# Potential API keys or secrets (Michelle, added from Claude. Check?)
+*.env
 
 # C extensions
 *.so
