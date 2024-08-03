@@ -10,20 +10,14 @@ Fix Word Doc Claude is an AI-powered proofreading tool that uses Anthropic's Cla
 - Preserves original document semantic meaning and structure
 - Includes comprehensive testing and evaluation
 
-## Installation
-1. Open the notebook (Fix_Word_Doc_Claude.ipynb)[Fix_Word_Doc_Claude.ipynb]
-2. Click 'open in colab' > File > Save copy
-4. Running the notebook will install required libraries
-5. Set up an [Anthropic API key](https://console.anthropic.com/settings/keys) (Pro account required)
-
 ## Usage
-1. Open the notebook in Google Colab
-2. Run all cells
-3. Input your Anthropic API key when prompted
-4. Specify the full path to your Word document in Google Drive
-5. The notebook will process your document and provide a corrected HTML version
-6. The corrected HTML file will be automatically downloaded via your browser AND saved into your Google Drive
-7. The corrected HTML file will be automatically saved into the same Google Drive directory as your original Word document
+1. Open the notebook [Fix Word Doc Claude Notebook](Fix_Word_Doc_Claude.ipynb)
+2. Click 'Open in Colab' > File > Save a copy
+3. Run all cells
+4. Input your Anthropic API key when prompted
+5. Specify the full path to your Word document in Google Drive
+6. The notebook will process your document and provide a corrected HTML version
+7. The corrected HTML file will be automatically downloaded via your browser AND saved into your Google Drive
 
 ## Example Input and Output
 To give you an idea of how the notebook works, we've provided an example:
