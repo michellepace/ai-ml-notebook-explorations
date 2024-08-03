@@ -32,4 +32,4 @@ While this is primarily a personal exploration project, I welcome suggestions an
 
 ## Contact
 
-[Your Name] - [Your Email or LinkedIn profile]
+Michelle
