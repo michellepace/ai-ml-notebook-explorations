@@ -34,7 +34,7 @@ You can view these files to see the kind of corrections and improvements the not
 5. Testing: Evaluates output, tests prompt, and tests code
 
 ## Workflow Diagram
-To better understand the process flow of this notebook, refer to our [Notebook Workflow Diagram](Notebook_Workflow_Diagram.md). This Mermaid diagram visually represents the main steps in the document processing pipeline, including preprocessing, API processing, and testing stages.
+To better understand the process flow of this notebook, refer to our [Notebook Workflow Diagram](notebook_workflow_diagram.md). This Mermaid diagram visually represents the main steps in the document processing pipeline, including preprocessing, API processing, and testing stages.
 
 ## Testing
 The notebook includes comprehensive testing:
