@@ -26,7 +26,7 @@ Fix Word Doc Claude is an AI-powered proofreading tool that uses Anthropic's Cla
 ## Example Input and Output
 To give you an idea of how the notebook works, we've provided an example:
 - Input file: [MyWordDoc.docx](MyWordDoc.docx) - This is a sample Word document with various errors.
-- Output file: [MyWordDoc.docx.CORRECTED.html](MyWordDoc.docx.CORRECTED.html) - This is the corrected version of the document in HTML format, with changes highlighted.
+- Output file: [MyWordDoc.docx.PROCESSED.html](MyWordDoc.docx.PROCESSED.html) - This is the corrected version of the document in HTML format, with changes highlighted.
 
 You can view these files to see the kind of corrections and improvements the notebook makes.
 
@@ -51,10 +51,10 @@ If you don't have an Anthropic Pro account, you can still learn from this notebo
 - Each code block in the notebook has a screenshot of example output beneath it.
 - Start by scanning the Table of Contents for an overview.
 - Focus on the explanations between code blocks – there's no need to read the code itself.
-- You can view the example input ([MyWordDoc.docx](MyWordDoc.docx)) and output ([MyWordDoc.docx.CORRECTED.html](MyWordDoc.docx.CORRECTED.html)) files to see the kind of improvements the notebook makes.
+- You can view the example input ([MyWordDoc.docx](MyWordDoc.docx)) and output ([MyWordDoc.docx.PROCESSED.html](MyWordDoc.docx.PROCESSED.html)) files to see the kind of improvements the notebook makes.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the see the [LICENSE](../LICENSE) file for details.
 
 ## Acknowledgements
 This project was developed with assistance from Anthropic's Claude AI. Special thanks to the Slack community members who gave me the belief I could take my first delve into programmatic AI: Aaron and Unmesh.
