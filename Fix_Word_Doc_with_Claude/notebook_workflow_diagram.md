@@ -1,11 +1,12 @@
+```mermaid
 graph TD
     A[Start] --> B[Set up environment]
-    B --> C[Load Word document]
+    B --> C[Load Word document Google Drive]
     C --> D[Preprocess document]
     D --> E[Split into chunks]
     E --> F[Process chunks with Claude API]
-    F --> G[Reassemble processed chunks]
-    G --> H[Generate HTML output]
+    F --> G[Re-assemble processed chunks]
+    G --> H[Create HTML file]
     H --> I[Testing and validation]
     I --> J[End]
 
@@ -33,3 +34,4 @@ graph TD
     I1 --> I1A[Structure Preservation]
     I1 --> I1B[Content Preservation]
     end
+```
