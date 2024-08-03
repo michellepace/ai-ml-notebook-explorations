@@ -11,9 +11,10 @@ Fix Word Doc Claude is an AI-powered proofreading tool that uses Anthropic's Cla
 - Includes comprehensive testing and evaluation
 
 ## Installation
-1. Clone this repository
-2. Running the notebook will install required libraries
-3. Set up an [Anthropic API key](https://console.anthropic.com/settings/keys) (Pro account required)
+1. Open the notebook (Fix_Word_Doc_Claude.ipynb)[Fix_Word_Doc_Claude.ipynb]
+2. Click 'open in colab' > File > Save copy
+4. Running the notebook will install required libraries
+5. Set up an [Anthropic API key](https://console.anthropic.com/settings/keys) (Pro account required)
 
 ## Usage
 1. Open the notebook in Google Colab
