@@ -9,7 +9,6 @@ Fix Word Doc Claude is an AI-powered proofreading tool that uses Anthropic's Cla
 1. Highlights corrections in colour for easy identification
 1. Preserves original document semantic meaning and structure
 1. Includes comprehensive testing and evaluation
-1. Future potential: writing tone adjustments and correction
 
 ## Notebook Usage
 1. Open the notebook [Fix Word Doc Claude](Fix_Word_Doc_Claude.ipynb)
