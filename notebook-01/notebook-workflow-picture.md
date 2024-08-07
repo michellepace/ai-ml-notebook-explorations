@@ -1,3 +1,7 @@
+## Notebook Workflow Picture
+I gave Claude this notebook to analyse "line by line". He read the code and drew this lovely picture. 
+
+It's how the notebook works.
 ```mermaid
 graph TD
     A[Start] --> B[Set up environment]
