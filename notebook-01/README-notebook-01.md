@@ -12,14 +12,14 @@ Fix Word Doc Claude is an AI-powered proofreading tool that uses Anthropic's Cla
 1. Future potential: writing tone adjustments and correction
 
 ## Notebook Usage
-1. Open the notebook [Fix Word Doc Claude Notebook](Fix_Word_Doc_Claude.ipynb)
+1. Open the notebook [Fix Word Doc Claude](Fix_Word_Doc_Claude.ipynb)
 2. Click 'Open in Colab' > File > Save a copy
-3. Follow the steps in the notebook: [Notebook Usage⭐](https://colab.research.google.com/drive/1dIXtrgOLj3wsuyuiJjrHaPnCPV15vnf4#scrollTo=Notebook_Usage_)
+3. Follow these steps in the notebook: [Notebook Usage⭐](https://colab.research.google.com/github/michellepace/ai-ml-notebook-explorations/blob/main/notebook-01/Fix_Word_Doc_Claude.ipynb#scrollTo=Notebook_Usage_)
 
 ## Example Input and Output
 You can view these files to see the kind of corrections and improvements the notebook makes (beyond what Word can do).
-- Input file: [MyWordDoc.docx](https://docs.google.com/document/d/1qoOZcVuk9xe-FTUVqjZEQPJDVpx3R6Gf) - sample Word document with various errors.
-- Output file: [MyWordDoc.docx.PROCESSED.html](https://michellepace.github.io/ai-ml-notebook-explorations/Notebook-01/MyWordDoc.docx.PROCESSED.html) - corrected version with changes highlighted.
+- Input file: [MyWordDoc.docx](https://michellepace.github.io/ai-ml-notebook-explorations/notebook-01/example-input-output/MyWordDoc.docx) - sample Word document with various errors.
+- Output file: [MyWordDoc.docx.PROCESSED.html](https://michellepace.github.io/ai-ml-notebook-explorations/notebook-01/example-input-output/MyWordDoc.docx.PROCESSED.html) - corrected version with changes highlighted.
 
 ## Notebook Structure
 1. Setup: Installs and imports necessary libraries
@@ -29,7 +29,7 @@ You can view these files to see the kind of corrections and improvements the not
 5. Testing: Evaluates output, tests prompt, and tests code
 
 ## Notebook Workflow Diagram
-To better understand the process flow of this notebook, refer to our [Notebook Workflow Diagram](notebook_workflow_diagram.md). This Mermaid diagram visually represents the main steps in the document processing pipeline, including preprocessing, API processing, and testing stages.
+To better understand the process flow of this notebook, refer to our [Notebook Workflow Picture](notebook-workflow-picture.md). This Mermaid diagram visually represents the main steps in the document processing pipeline, including preprocessing, API processing, and testing stages.
 
 ## Notebook Testing
 The notebook includes comprehensive testing:
