@@ -22,11 +22,11 @@ You can view these files to see the kind of corrections and improvements the not
 - Output file: [MyWordDoc.docx.PROCESSED.html](https://michellepace.github.io/ai-ml-notebook-explorations/notebook-01/example-input-output/MyWordDoc.docx.PROCESSED.html) - corrected version with changes highlighted.
 
 ## Notebook Structure
-1. Setup: Installs and imports necessary libraries
-2. Pre-processing: Extracts text from Word, converts to markdown, splits into chunks
-3. Processing: Sends chunks to Claude for correction
-4. Post-Processing: Reassembles chunks, creates HTML output
-5. Testing: Evaluates output, tests prompt, and tests code
+1. **Setup:** Installs and imports necessary libraries
+2. **Pre-processing:** Extracts text from Word, converts to markdown, splits into chunks
+3. **Processing:** Sends chunks to Claude for correction
+4. **Post-Processing:** Reassembles chunks, creates HTML output
+5. **Testing:** Evaluates output, tests prompt, and tests code
 
 ## Notebook Workflow Diagram
 To better understand the process flow of this notebook, refer to our [Notebook Workflow Picture](notebook-workflow-picture.md). This Mermaid diagram visually represents the main steps in the document processing pipeline, including preprocessing, API processing, and testing stages.
