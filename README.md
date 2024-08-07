@@ -16,7 +16,7 @@ Key features:
 
 The notebook also serves as a demonstration of AI-assisted development, showcasing how complex tools can be created with basic coding skills and AI collaboration.
 
-[View Notebook](notebook-01/Fix_Word_Doc_Claude.ipynb) | [Detailed README](notebook-01/README-notebook-01.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michellepace/ai-ml-notebook-explorations/blob/main/notebook-01/Fix_Word_Doc_Claude.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michellepace/ai-ml-notebook-explorations/blob/main/notebook-01/Fix_Word_Doc_Claude.ipynb) | [View Notebook](notebook-01/Fix_Word_Doc_Claude.ipynb) | [Detailed README](notebook-01/README-notebook-01.md) | 
 
 ### notebook-02: Fine tunining LLMs in AWS
 Coming soon
